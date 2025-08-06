@@ -1,2 +1,2 @@
 # PAIL-Lab---Hello-World-in-Assembly
-Hello World program in Assembly language for Processor Architecture and Interfacing Lab (PAIL). 
+Name and surname program in Assembly language for Processor Architecture and Interfacing Lab (PAIL). 
